@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.sqlite3
+
+# Virtual environments
+venv/
+ENV/
+.env
+.env.local
+.env.*.local
+
+# PyCharm / IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Node (if frontend lives together)
+node_modules/
+
+# compiled static files
+staticfiles/
