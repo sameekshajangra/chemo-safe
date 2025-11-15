@@ -1,0 +1,11 @@
+Equipment Name,Type,Flowrate (L/min),Pressure (kPa),Temperature (°C)
+Heating Mantle 1,Heating,0,101,55
+Autoclave A,Pressure Vessel,50,250,121
+Bunsen Burner 3,Combustion,0,101,200
+Water Bath 2,Heating,10,101,37
+Fume Hood Fan 1,Exhaust,30,101,22
+Steam Line 1,Steam,100,300,150
+Incubator 5,Incubator,0,101,37
+Vacuum Pump 2,Vacuum,20,50,25
+Distillation Column 1,Separation,5,110,85
+Gas Cylinder Outlet 1,Gas,15,150,20
