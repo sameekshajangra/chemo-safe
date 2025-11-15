@@ -1,0 +1,12 @@
+# Backend Python dependencies for CHEMO-SAFE
+# Python 3.10+ recommended
+
+django>=4.2
+djangorestframework
+pandas
+matplotlib
+reportlab
+pyqt5
+python-dotenv
+requests
+gunicorn
